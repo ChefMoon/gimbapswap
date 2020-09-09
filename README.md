@@ -10,7 +10,7 @@ https://gimbapswap.org. Feel free to read the code. More details coming soon.
 - (Uni|Sushi|Gimbap)swapV2Router02 - https://etherscan.io/address/0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f
 - (Uni|Sushi|Gimbap)swapV2Pair init code hash - `e18a34eb0e04b04f7a0ac29a6e80748dca96319b42c54d679cb821dca90c6303`
 - GimbapBar - Coming Soon!
-- NorimakiMaker - Coming Soon!
+- GimbapMaker - Coming Soon!
 
 ## License
 
